@@ -2,3 +2,7 @@
 MEVN Stack CRUD
 
 
+* MONGO DB 
+* EXPRESS
+* VUE JS
+* NODE JS
