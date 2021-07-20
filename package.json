@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "mogoose": "^3.1.8",
-    "mongoose": "^5.4.0",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.9",
     "request": "^2.88.0",
